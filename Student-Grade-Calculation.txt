@@ -1,0 +1,11 @@
+Name of the student: Nikhil Upadhayay
+   Student Registeration Number: 1544407876
+   Current Semester: 1
+   Total Marks obtained in this sem: 160
+   Grade Obtained: A+
+   Percentage Obtained: 80.00
+
+Subject-wise Marks:
+English : 80
+  Hindi : 80
+  
