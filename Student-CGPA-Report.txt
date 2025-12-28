@@ -1,0 +1,4 @@
+Name of the Student : LOL
+Registeration number of the Student : 2468
+Subject : Eng	Marks : 80
+Subject : Hin	Marks : 100
